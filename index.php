@@ -12,6 +12,9 @@
         echo"<h1>My Age is: $age</h1>";
         // Echo using double quotes and interpolation
     ?>
+    <button type="button" class="btn btn-dark">Click me</button>
     <button type="button" class="btn btn-primary">Click me</button>
+    <button type="button" class="btn btn-success">Click me</button>
+    <a href="https://www.heroku.com" target="_blank" class="btn btn-danger">Heroku.com</a>
 <?php require 'include/footer.php' ?>
 
